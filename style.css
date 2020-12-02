@@ -20,7 +20,9 @@ h1 { font-size: 44px; }
 
 h2 { font-size: 24px; }
 
-h3 { font-size: 22px; }
+h3 { font-size: 22px;
+     color: #FFFFFF;
+   }
 
 p, ul, ol {
 	margin-top: 10;
@@ -110,12 +112,12 @@ hr { display: none; }
 	display: block;
 	float: left;
 	height: 32px;
-	padding: 10px 20px 0px 20px;
+	padding: 10px 0px 0px 20px;
 	letter-spacing: -1px;
 	text-decoration: none;
 	text-align: center;
 	font-family: Arial, Helvetica, sans-serif;
-	font-size: 18px;
+	font-size: 22px;
 	font-weight: normal;
 	color: #FFFFFF;
 }
@@ -203,6 +205,7 @@ hr { display: none; }
 	padding-bottom: 20px;
 	border-bottom: 1px dashed #1D1D1D;
 	background: #1E1E1E;
+	font-size: 18px;
 }
 
 .post .title {
@@ -211,6 +214,16 @@ hr { display: none; }
 	font-size: 30px;
 	background: #161616;
 	color: #0099FF;
+}
+
+.post .titlecenter {
+ 	padding: 18px 0px 0px 0px;
+	height: 44px;
+	font-size: 30px;
+	background: #161616;
+	color: #0099FF;   
+	text-align: center;
+
 }
 
 .post .title a {
@@ -452,4 +465,19 @@ hr { display: none; }
 
 .paper {
     font-size:120%;
+}
+
+
+.members li{
+    display: inline;
+}
+.members .captioned-image {
+    display:inline-block;
+    width:200px;
+}
+
+.members figure {
+    width: 150px;
+    display:block;
+    text-align:center;
 }
