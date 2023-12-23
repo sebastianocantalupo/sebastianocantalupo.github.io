@@ -9,12 +9,16 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 678px;
+  }
+
   .u-section-1 .u-text-1 {
     font-weight: 700;
     width: auto;
     margin-top: 20px;
     margin-right: auto;
-    margin-left: 20px;
+    margin-left: 21px;
   }
 }
 
