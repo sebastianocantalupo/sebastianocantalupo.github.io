@@ -54,13 +54,13 @@
     margin-left: 5px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 1259px;
+  min-height: 1028px;
 }
 
 .u-section-2 .u-text-1 {
   font-size: 1.25rem;
-  font-weight: 700;
-  margin: 0 0 0 20px;
+  font-weight: normal;
+  margin: 0 0 20px 20px;
 }
 
 .u-section-2 .u-btn-1 {
@@ -68,124 +68,53 @@
   padding: 0;
 }
 
-.u-section-2 .u-image-1 {
-  width: 1034px;
-  height: 886px;
-  margin: 20px auto 49px;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 1178px;
-  }
-
-  .u-section-2 .u-text-1 {
-    margin-left: 0;
-  }
-
-  .u-section-2 .u-image-1 {
-    width: 940px;
-    height: 805px;
-  }
-}
-
-@media (max-width: 991px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 990px;
-  }
-
-  .u-section-2 .u-image-1 {
-    width: 720px;
-    height: 617px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 836px;
-  }
-
-  .u-section-2 .u-text-1 {
-    font-size: 1rem;
-  }
-
-  .u-section-2 .u-image-1 {
-    width: 540px;
-    height: 463px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
-    min-height: 665px;
-  }
-
-  .u-section-2 .u-image-1 {
-    width: 340px;
-    height: 292px;
-  }
-}.u-section-3 .u-sheet-1 {
-  min-height: 1028px;
-}
-
-.u-section-3 .u-text-1 {
-  font-size: 1.25rem;
-  font-weight: normal;
-  margin: 0 0 20px 20px;
-}
-
-.u-section-3 .u-btn-1 {
-  background-image: none;
-  padding: 0;
-}
-
-.u-section-3 .u-btn-2 {
+.u-section-2 .u-btn-2 {
   border-style: solid;
   font-size: 1.25rem;
   padding: 0;
 }
 
-.u-section-3 .u-btn-3 {
+.u-section-2 .u-btn-3 {
   border-style: solid;
   font-size: 1.125rem;
   padding: 0;
 }
 
-.u-section-3 .u-btn-4 {
+.u-section-2 .u-btn-4 {
   border-style: solid;
   font-size: 1.125rem;
   padding: 0;
 }
 
-.u-section-3 .u-btn-5 {
+.u-section-2 .u-btn-5 {
   border-style: solid;
   font-size: 1.125rem;
   padding: 0;
 }
 
-.u-section-3 .u-btn-6 {
+.u-section-2 .u-btn-6 {
   background-image: none;
   padding: 0;
 }
 
-.u-section-3 .u-btn-7 {
+.u-section-2 .u-btn-7 {
   background-image: none;
   padding: 0;
 }
 
-.u-section-3 .u-btn-8 {
+.u-section-2 .u-btn-8 {
   background-image: none;
   padding: 0;
 }
 
 @media (max-width: 1199px) {
-  .u-section-3 .u-text-1 {
+  .u-section-2 .u-text-1 {
     margin-left: 0;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-3 .u-text-1 {
+  .u-section-2 .u-text-1 {
     font-size: 1rem;
   }
 }
