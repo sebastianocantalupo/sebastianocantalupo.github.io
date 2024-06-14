@@ -5,7 +5,7 @@
 .u-section-1 .u-text-1 {
   font-size: 1rem;
   font-weight: 700;
-  margin: 20px 0 0 20px;
+  margin: 20px 0 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -169,6 +169,22 @@
   .u-section-2 .u-text-1 {
     width: auto;
     margin-left: 0;
+  }
+
+  .u-section-2 .u-btn-1 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-2 .u-btn-6 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-2 .u-btn-7 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-2 .u-btn-8 {
+    font-size: 1.25rem;
   }
 }
 
