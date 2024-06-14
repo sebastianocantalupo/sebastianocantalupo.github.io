@@ -15,22 +15,14 @@
 
 .u-section-2 .u-btn-1 {
   background-image: none;
+  font-size: 1.25rem;
   padding: 0;
 }
 
 .u-section-2 .u-btn-2 {
   background-image: none;
+  font-size: 1.25rem;
   padding: 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-2 .u-btn-1 {
-    font-size: 1.25rem;
-  }
-
-  .u-section-2 .u-btn-2 {
-    font-size: 1.25rem;
-  }
 }
 
 @media (max-width: 575px) {
@@ -54,22 +46,14 @@
 
 .u-section-3 .u-btn-1 {
   background-image: none;
+  font-size: 1.25rem;
   padding: 0;
 }
 
 .u-section-3 .u-btn-2 {
   background-image: none;
+  font-size: 1.25rem;
   padding: 0;
-}
-
-@media (max-width: 1199px) {
-  .u-section-3 .u-btn-1 {
-    font-size: 1.25rem;
-  }
-
-  .u-section-3 .u-btn-2 {
-    font-size: 1.25rem;
-  }
 }
 
 @media (max-width: 575px) {
